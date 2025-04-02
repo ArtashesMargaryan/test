@@ -1,0 +1,2567 @@
+{
+  "data": [
+    {
+      "_id": "67888390ddddd1b810381270",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Sunlit Haven: A Modern, Nature-Inspired Interior",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787b2b00a3d2607e071bf94",
+          "posts": [],
+          "name": "Wellness Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T13:05:52.588Z",
+          "updatedAt": "2025-01-15T13:05:52.588Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "6788838fddddd1b810381214",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 226218,
+          "filename": "/d492e4b3-7735-42d3-8aba-a3035b19a92c.jpeg",
+          "width": 1080,
+          "height": 1350,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T03:57:03.688Z",
+          "updatedAt": "2025-01-16T03:57:03.688Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67888390ddddd1b810381273"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Wellbeing"],
+      "shots": [
+        "67888390ddddd1b81038127d",
+        "67888390ddddd1b810381284",
+        "67888390ddddd1b81038128b"
+      ],
+      "isPublished": true,
+      "createdAt": "2025-01-16T03:57:04.460Z",
+      "updatedAt": "2025-01-28T20:13:14.588Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35b0a3d2607e071ace0",
+          "name": "cozy"
+        },
+        {
+          "_id": "6787a3700a3d2607e071adac",
+          "name": "serene"
+        },
+        {
+          "_id": "6787a3710a3d2607e071add4",
+          "name": "tranquil"
+        },
+        {
+          "_id": "6787a3870a3d2607e071ae32",
+          "name": "modern design"
+        },
+        {
+          "_id": "6787a3c80a3d2607e071aef7",
+          "name": "tranquility"
+        },
+        {
+          "_id": "6787a40b0a3d2607e071b0ff",
+          "name": "sunlight"
+        },
+        {
+          "_id": "6787aa890a3d2607e071b4d8",
+          "name": "lush"
+        },
+        {
+          "_id": "6787ab3e0a3d2607e071bb0a",
+          "name": "natural"
+        },
+        {
+          "_id": "6787ba5d0a3d2607e071c677",
+          "name": "natural elements"
+        },
+        {
+          "_id": "6787bb2b0a3d2607e071ccbd",
+          "name": "wood"
+        },
+        {
+          "_id": "6787c4aeddddd1b81037370a",
+          "name": "pillows"
+        },
+        {
+          "_id": "6787e5f5ddddd1b810379080",
+          "name": "wooden elements"
+        },
+        {
+          "_id": "6787e63fddddd1b8103792d7",
+          "name": "seating area"
+        },
+        {
+          "_id": "6787f741ddddd1b81037a74e",
+          "name": "windows"
+        },
+        {
+          "_id": "67883836ddddd1b81037e8a4",
+          "name": "garden view"
+        },
+        {
+          "_id": "67883836ddddd1b81037e8ae",
+          "name": "garden views"
+        },
+        {
+          "_id": "6788838fddddd1b810381236",
+          "name": "indoor-outdoor"
+        },
+        {
+          "_id": "67888390ddddd1b810381261",
+          "name": "plush"
+        },
+        {
+          "_id": "67888390ddddd1b810381268",
+          "name": "wood-slatted"
+        },
+        {
+          "_id": "67888390ddddd1b81038126c",
+          "name": "basking"
+        }
+      ]
+    },
+    {
+      "_id": "67887542ddddd1b8103811d9",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Modern House Exterior with Inviting Atmosphere",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3870a3d2607e071ae2a",
+          "posts": [],
+          "name": "Exterior Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:01:11.846Z",
+          "updatedAt": "2025-01-15T12:01:11.846Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7a1",
+          "posts": [],
+          "name": "Residential Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:32:39.186Z",
+          "updatedAt": "2025-01-15T12:32:39.186Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67887541ddddd1b81038117c",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 275884,
+          "filename": "/ae8eef28-7906-44f5-a2e2-ae209c45a06a.jpeg",
+          "width": 1080,
+          "height": 1349,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T02:56:01.905Z",
+          "updatedAt": "2025-01-16T02:56:01.905Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67887542ddddd1b8103811dc"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Landscape"],
+      "shots": [
+        "67887543ddddd1b8103811e6",
+        "67887543ddddd1b8103811ed",
+        "67887543ddddd1b8103811f4"
+      ],
+      "isPublished": true,
+      "createdAt": "2025-01-16T02:56:02.935Z",
+      "updatedAt": "2025-01-28T20:13:14.699Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35c0a3d2607e071ad18",
+          "name": "unwind"
+        },
+        {
+          "_id": "6787a35c0a3d2607e071ad3a",
+          "name": "contemporary"
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad94",
+          "name": "evening"
+        },
+        {
+          "_id": "6787a3700a3d2607e071ada0",
+          "name": "nature"
+        },
+        {
+          "_id": "6787a3700a3d2607e071adac",
+          "name": "serene"
+        },
+        {
+          "_id": "6787a3710a3d2607e071ade0",
+          "name": "home"
+        },
+        {
+          "_id": "6787a3880a3d2607e071ae6d",
+          "name": "exterior"
+        },
+        {
+          "_id": "6787a3dd0a3d2607e071afa5",
+          "name": "large windows"
+        },
+        {
+          "_id": "6787a3f30a3d2607e071b054",
+          "name": "greenery"
+        },
+        {
+          "_id": "6787b29a0a3d2607e071bf27",
+          "name": "seating areas"
+        },
+        {
+          "_id": "6787badd0a3d2607e071ca82",
+          "name": "comfort"
+        },
+        {
+          "_id": "6787bb9addddd1b810371aa2",
+          "name": "warm lighting"
+        },
+        {
+          "_id": "6787bc1dddddd1b81037258c",
+          "name": "sleek design"
+        },
+        {
+          "_id": "6787e63fddddd1b8103792d7",
+          "name": "seating area"
+        },
+        {
+          "_id": "6787ee66ddddd1b810379ace",
+          "name": "inviting."
+        },
+        {
+          "_id": "67880a94ddddd1b81037d396",
+          "name": "outdoors"
+        },
+        {
+          "_id": "678811e1ddddd1b81037d48f",
+          "name": "Modern house"
+        },
+        {
+          "_id": "67886dfcddddd1b810380f67",
+          "name": "modern house"
+        },
+        {
+          "_id": "67887542ddddd1b81038119f",
+          "name": "extended roofline"
+        }
+      ]
+    },
+    {
+      "_id": "6788752cddddd1b810381152",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Panoramic Ocean View from a Tranquil Room Corner",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787ab190a3d2607e071b979",
+          "posts": [],
+          "name": "Residential INTERIORS Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:33:29.420Z",
+          "updatedAt": "2025-01-15T12:33:29.420Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "6788752bddddd1b8103810f4",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 75300,
+          "filename": "/4be9ad01-15f3-4242-a206-5a02d5e8537d.jpeg",
+          "width": 1079,
+          "height": 1348,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T02:55:39.533Z",
+          "updatedAt": "2025-01-16T02:55:39.533Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "6788752cddddd1b810381155"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior"],
+      "shots": [
+        "6788752cddddd1b81038115f",
+        "6788752cddddd1b810381166",
+        "6788752cddddd1b81038116d"
+      ],
+      "isPublished": true,
+      "createdAt": "2025-01-16T02:55:40.128Z",
+      "updatedAt": "2025-01-28T20:13:14.902Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35c0a3d2607e071ad18",
+          "name": "unwind"
+        },
+        {
+          "_id": "6787a35c0a3d2607e071ad24",
+          "name": "relaxing"
+        },
+        {
+          "_id": "6787a3700a3d2607e071adac",
+          "name": "serene"
+        },
+        {
+          "_id": "6787a3710a3d2607e071add4",
+          "name": "tranquil"
+        },
+        {
+          "_id": "6787a3880a3d2607e071ae69",
+          "name": "interior"
+        },
+        {
+          "_id": "6787a40b0a3d2607e071b0ff",
+          "name": "sunlight"
+        },
+        {
+          "_id": "6787aac00a3d2607e071b67c",
+          "name": "plant"
+        },
+        {
+          "_id": "6787ab190a3d2607e071b97d",
+          "name": "ocean view"
+        },
+        {
+          "_id": "6787bb84ddddd1b81037190e",
+          "name": "decor"
+        },
+        {
+          "_id": "6787bb84ddddd1b810371931",
+          "name": "calm"
+        },
+        {
+          "_id": "6787c400ddddd1b81037325b",
+          "name": "peaceful"
+        },
+        {
+          "_id": "6787c520ddddd1b810373a99",
+          "name": "bench"
+        },
+        {
+          "_id": "6787e5e3ddddd1b810378fd8",
+          "name": "window"
+        },
+        {
+          "_id": "6787eefcddddd1b810379ed6",
+          "name": "outdoor"
+        },
+        {
+          "_id": "67883836ddddd1b81037e8ce",
+          "name": "scenery"
+        },
+        {
+          "_id": "6788752bddddd1b810381114",
+          "name": "glass window"
+        },
+        {
+          "_id": "6788752bddddd1b81038111b",
+          "name": "coastal"
+        },
+        {
+          "_id": "6788752bddddd1b810381122",
+          "name": "panoramic ocean views"
+        },
+        {
+          "_id": "6788752bddddd1b810381129",
+          "name": "natural beauty"
+        },
+        {
+          "_id": "6788752bddddd1b810381130",
+          "name": "corner"
+        },
+        {
+          "_id": "6788752cddddd1b810381143",
+          "name": "stress-free"
+        },
+        {
+          "_id": "6788752cddddd1b810381147",
+          "name": "horizon"
+        },
+        {
+          "_id": "6788752cddddd1b81038114e",
+          "name": "rejuvenating"
+        }
+      ]
+    },
+    {
+      "_id": "67886e11ddddd1b810381058",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Spanish-Style Home with Cozy Outdoor Lounge Area",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3870a3d2607e071ae2a",
+          "posts": [],
+          "name": "Exterior Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:01:11.846Z",
+          "updatedAt": "2025-01-15T12:01:11.846Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787ab190a3d2607e071b979",
+          "posts": [],
+          "name": "Residential INTERIORS Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:33:29.420Z",
+          "updatedAt": "2025-01-15T12:33:29.420Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67886e10ddddd1b810380feb",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 101562,
+          "filename": "/94b314c4-76ad-4ba3-aad5-fddf6ffe8e68.jpeg",
+          "width": 1080,
+          "height": 1343,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T02:25:20.648Z",
+          "updatedAt": "2025-01-16T02:25:20.648Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67886e11ddddd1b81038105b"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 1,
+      "likesCount": 1,
+      "classifications": ["Residential", "Interior", "Landscape"],
+      "shots": [
+        "67886e11ddddd1b810381065",
+        "67886e11ddddd1b81038106c",
+        "67886e11ddddd1b810381073"
+      ],
+      "isPublished": true,
+      "createdAt": "2025-01-16T02:25:21.264Z",
+      "updatedAt": "2025-01-28T20:22:38.819Z",
+      "allReactions": [
+        {
+          "_id": "67993c7c62c576da1b81a63e",
+          "type": "fire",
+          "emoji": "🔥"
+        }
+      ],
+      "tags": [
+        {
+          "_id": "6787a35b0a3d2607e071ace0",
+          "name": "cozy"
+        },
+        {
+          "_id": "6787a3710a3d2607e071add4",
+          "name": "tranquil"
+        },
+        {
+          "_id": "6787a3710a3d2607e071ade0",
+          "name": "home"
+        },
+        {
+          "_id": "6787a3880a3d2607e071ae79",
+          "name": "inviting"
+        },
+        {
+          "_id": "6787a3f30a3d2607e071b054",
+          "name": "greenery"
+        },
+        {
+          "_id": "6787a3f40a3d2607e071b07d",
+          "name": "stunning"
+        },
+        {
+          "_id": "6787aa890a3d2607e071b4a7",
+          "name": "outdoor space"
+        },
+        {
+          "_id": "6787aa890a3d2607e071b4ab",
+          "name": "pool"
+        },
+        {
+          "_id": "6787aa9a0a3d2607e071b543",
+          "name": "lush greenery"
+        },
+        {
+          "_id": "6787b29a0a3d2607e071bf32",
+          "name": "relaxation"
+        },
+        {
+          "_id": "6787bc7dddddd1b8103728f6",
+          "name": "comfortable"
+        },
+        {
+          "_id": "6787fe8dddddd1b81037a8ee",
+          "name": "entertainment"
+        },
+        {
+          "_id": "67886e10ddddd1b810381004",
+          "name": "Spanish style"
+        },
+        {
+          "_id": "67886e10ddddd1b81038100b",
+          "name": "swimming pool"
+        },
+        {
+          "_id": "67886e10ddddd1b81038100f",
+          "name": "lounge chairs"
+        },
+        {
+          "_id": "67886e10ddddd1b810381013",
+          "name": "wooden deck"
+        },
+        {
+          "_id": "67886e10ddddd1b810381017",
+          "name": "umbrella"
+        },
+        {
+          "_id": "67886e10ddddd1b81038101b",
+          "name": "white stucco"
+        },
+        {
+          "_id": "67886e10ddddd1b81038101f",
+          "name": "two-story house"
+        },
+        {
+          "_id": "67886e10ddddd1b810381026",
+          "name": "Spanish-style"
+        },
+        {
+          "_id": "67886e11ddddd1b81038102d",
+          "name": "outdoor lounging area"
+        },
+        {
+          "_id": "67886e11ddddd1b810381037",
+          "name": "gatherings"
+        },
+        {
+          "_id": "67886e11ddddd1b810381041",
+          "name": "patio"
+        },
+        {
+          "_id": "67886e11ddddd1b810381054",
+          "name": "exotic."
+        }
+      ]
+    },
+    {
+      "_id": "67886dfdddddd1b810380fbd",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "A Stunning Modern House with Natural Elements",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787ab190a3d2607e071b976",
+          "posts": [],
+          "name": "House Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:33:29.411Z",
+          "updatedAt": "2025-01-15T12:33:29.411Z",
+          "__v": 0
+        },
+        {
+          "_id": "67886dfcddddd1b810380f62",
+          "posts": [],
+          "name": "Residental INTERIORS Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-16T02:25:00.486Z",
+          "updatedAt": "2025-01-16T02:25:00.486Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67886dfcddddd1b810380f52",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 307910,
+          "filename": "/3e9f1dd9-f66b-4186-a06a-ffeb30bd8b53.jpeg",
+          "width": 1077,
+          "height": 1349,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T02:25:00.419Z",
+          "updatedAt": "2025-01-16T02:25:00.419Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67886dfdddddd1b810380fc0"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Landscape"],
+      "shots": [
+        "67886dfdddddd1b810380fca",
+        "67886dfdddddd1b810380fd1",
+        "67886dfdddddd1b810380fd8"
+      ],
+      "isPublished": true,
+      "createdAt": "2025-01-16T02:25:01.216Z",
+      "updatedAt": "2025-01-28T20:13:14.702Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a3dd0a3d2607e071afa5",
+          "name": "large windows"
+        },
+        {
+          "_id": "6787a3dd0a3d2607e071afd0",
+          "name": "Large windows"
+        },
+        {
+          "_id": "6787a3f30a3d2607e071b03f",
+          "name": "open layout"
+        },
+        {
+          "_id": "6787a3f30a3d2607e071b054",
+          "name": "greenery"
+        },
+        {
+          "_id": "6787a40b0a3d2607e071b103",
+          "name": "Modern design"
+        },
+        {
+          "_id": "6787aa9a0a3d2607e071b560",
+          "name": "Tranquil"
+        },
+        {
+          "_id": "6787aad50a3d2607e071b72a",
+          "name": "architectural design"
+        },
+        {
+          "_id": "6787b2b10a3d2607e071bfe4",
+          "name": "Contemporary"
+        },
+        {
+          "_id": "6787ba4c0a3d2607e071c61b",
+          "name": "Stylish"
+        },
+        {
+          "_id": "6787ddb4ddddd1b810378435",
+          "name": "wood elements"
+        },
+        {
+          "_id": "6787ddeaddddd1b810378602",
+          "name": "Spacious"
+        },
+        {
+          "_id": "6787eefcddddd1b810379ef2",
+          "name": "Indoor-outdoor connection"
+        },
+        {
+          "_id": "6787eefcddddd1b810379efe",
+          "name": "Lush greenery"
+        },
+        {
+          "_id": "67880255ddddd1b81037c58c",
+          "name": "garden"
+        },
+        {
+          "_id": "67886dfcddddd1b810380f67",
+          "name": "modern house"
+        },
+        {
+          "_id": "67886dfcddddd1b810380f6e",
+          "name": "natural stone"
+        },
+        {
+          "_id": "67886dfcddddd1b810380f7b",
+          "name": "serene living space"
+        },
+        {
+          "_id": "67886dfcddddd1b810380f85",
+          "name": "indoor-outdoor connection"
+        },
+        {
+          "_id": "67886dfcddddd1b810380f8f",
+          "name": "Architectural blend"
+        },
+        {
+          "_id": "67886dfcddddd1b810380f93",
+          "name": "Natural stone"
+        },
+        {
+          "_id": "67886dfcddddd1b810380f97",
+          "name": "Wood elements"
+        },
+        {
+          "_id": "67886dfcddddd1b810380f9b",
+          "name": "Serene living space"
+        },
+        {
+          "_id": "67886dfcddddd1b810380fa2",
+          "name": "Open layout"
+        },
+        {
+          "_id": "67886dfdddddd1b810380fa9",
+          "name": "Peaceful garden"
+        },
+        {
+          "_id": "67886dfdddddd1b810380fb3",
+          "name": "Light-filled"
+        }
+      ]
+    },
+    {
+      "_id": "67885fb4ddddd1b810380617",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Elegant Breakfast Setting with Coffee and Fresh Fruits",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787aae70a3d2607e071b7a1",
+          "posts": [],
+          "name": "Residential Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:32:39.186Z",
+          "updatedAt": "2025-01-15T12:32:39.186Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787b2b00a3d2607e071bf8e",
+          "posts": [],
+          "name": "Restaurant & Bar Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T13:05:52.557Z",
+          "updatedAt": "2025-01-15T13:05:52.557Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787d460ddddd1b8103766b3",
+          "posts": [],
+          "name": "Coffee Shop Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T15:29:36.594Z",
+          "updatedAt": "2025-01-15T15:29:36.594Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67885fb3ddddd1b8103805b9",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 152186,
+          "filename": "/4b680ad9-4537-4402-89f5-66651e45221f.jpeg",
+          "width": 1080,
+          "height": 1348,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T01:24:03.625Z",
+          "updatedAt": "2025-01-16T01:24:03.625Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67885fb4ddddd1b81038061a"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Hospitality", "Commercial"],
+      "shots": ["67885fb4ddddd1b810380624", "67885fb4ddddd1b81038062b"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T01:24:04.352Z",
+      "updatedAt": "2025-01-28T20:13:14.807Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35c0a3d2607e071ad2c",
+          "name": "elegant"
+        },
+        {
+          "_id": "6787b28a0a3d2607e071be71",
+          "name": "colorful"
+        },
+        {
+          "_id": "6787b2c80a3d2607e071c06d",
+          "name": "vibrant"
+        },
+        {
+          "_id": "6787bb84ddddd1b810371904",
+          "name": "table"
+        },
+        {
+          "_id": "6787bbd4ddddd1b8103720b1",
+          "name": "stylish"
+        },
+        {
+          "_id": "6787cc5dddddd1b810375d5e",
+          "name": "marble"
+        },
+        {
+          "_id": "6787dc71ddddd1b8103778e4",
+          "name": "black"
+        },
+        {
+          "_id": "67885fb3ddddd1b8103805c0",
+          "name": "coffee"
+        },
+        {
+          "_id": "67885fb3ddddd1b8103805c4",
+          "name": "breakfast"
+        },
+        {
+          "_id": "67885fb3ddddd1b8103805c8",
+          "name": "leopard-print cup"
+        },
+        {
+          "_id": "67885fb3ddddd1b8103805cc",
+          "name": "fruit plate"
+        },
+        {
+          "_id": "67885fb3ddddd1b8103805d0",
+          "name": "strawberries"
+        },
+        {
+          "_id": "67885fb3ddddd1b8103805d4",
+          "name": "blueberries"
+        },
+        {
+          "_id": "67885fb3ddddd1b8103805d8",
+          "name": "oranges"
+        },
+        {
+          "_id": "67885fb3ddddd1b8103805df",
+          "name": "black marble table"
+        },
+        {
+          "_id": "67885fb3ddddd1b8103805ec",
+          "name": "plates"
+        },
+        {
+          "_id": "67885fb4ddddd1b8103805f0",
+          "name": "fresh fruits"
+        },
+        {
+          "_id": "67885fb4ddddd1b8103805fa",
+          "name": "orange slices"
+        },
+        {
+          "_id": "67885fb4ddddd1b810380613",
+          "name": "cup"
+        }
+      ]
+    },
+    {
+      "_id": "67885fa1ddddd1b810380598",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Modern Elegance Meets Luxury in Contemporary Interior Design",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787b2c80a3d2607e071c03a",
+          "posts": [],
+          "name": "Hotel Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T13:06:16.174Z",
+          "updatedAt": "2025-01-15T13:06:16.174Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67885fa0ddddd1b810380540",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 175724,
+          "filename": "/03f05eab-87c5-43f7-83a8-7bc18e8790e8.jpeg",
+          "width": 1080,
+          "height": 1349,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T01:23:44.644Z",
+          "updatedAt": "2025-01-16T01:23:44.644Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67885fa1ddddd1b81038059b"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Hospitality"],
+      "shots": ["67885fa1ddddd1b8103805a5", "67885fa1ddddd1b8103805ac"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T01:23:45.180Z",
+      "updatedAt": "2025-01-28T20:13:14.970Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35b0a3d2607e071ace8",
+          "name": "modern"
+        },
+        {
+          "_id": "6787a35c0a3d2607e071ad2c",
+          "name": "elegant"
+        },
+        {
+          "_id": "6787a35c0a3d2607e071ad3a",
+          "name": "contemporary"
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad88",
+          "name": "luxury"
+        },
+        {
+          "_id": "6787a3c80a3d2607e071af07",
+          "name": "Modern"
+        },
+        {
+          "_id": "6787a3c80a3d2607e071af0f",
+          "name": "Design"
+        },
+        {
+          "_id": "6787a3de0a3d2607e071afd8",
+          "name": "Sleek"
+        },
+        {
+          "_id": "6787a3de0a3d2607e071afe0",
+          "name": "Cozy"
+        },
+        {
+          "_id": "6787aaab0a3d2607e071b60e",
+          "name": "sleek"
+        },
+        {
+          "_id": "6787aad60a3d2607e071b74e",
+          "name": "interior design"
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7f1",
+          "name": "Space"
+        },
+        {
+          "_id": "6787b2b10a3d2607e071bfe4",
+          "name": "Contemporary"
+        },
+        {
+          "_id": "6787ba370a3d2607e071c54f",
+          "name": "Elegance"
+        },
+        {
+          "_id": "6787ba370a3d2607e071c566",
+          "name": "Interior"
+        },
+        {
+          "_id": "6787ba4c0a3d2607e071c61b",
+          "name": "Stylish"
+        },
+        {
+          "_id": "6787bac50a3d2607e071c9c3",
+          "name": "Luxurious"
+        },
+        {
+          "_id": "6787c50fddddd1b810373a2c",
+          "name": "Ambiance"
+        },
+        {
+          "_id": "67884103ddddd1b81037f53b",
+          "name": "plush sofa"
+        },
+        {
+          "_id": "67885f7bddddd1b81038049d",
+          "name": "chic decor"
+        },
+        {
+          "_id": "67885fa0ddddd1b810380550",
+          "name": "dark furniture"
+        },
+        {
+          "_id": "67885fa0ddddd1b810380554",
+          "name": "gold partition"
+        },
+        {
+          "_id": "67885fa0ddddd1b810380570",
+          "name": "Dark Furniture"
+        },
+        {
+          "_id": "67885fa0ddddd1b810380574",
+          "name": "Ornate"
+        },
+        {
+          "_id": "67885fa1ddddd1b810380578",
+          "name": "Gold Partition"
+        },
+        {
+          "_id": "67885fa1ddddd1b81038058e",
+          "name": "Upscale"
+        }
+      ]
+    },
+    {
+      "_id": "67885f8fddddd1b81038051f",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Extravagant Bedroom with Animal Print and Black Furniture",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7a1",
+          "posts": [],
+          "name": "Residential Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:32:39.186Z",
+          "updatedAt": "2025-01-15T12:32:39.186Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67885f8eddddd1b8103804c6",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 246084,
+          "filename": "/44102b77-af25-4d2c-975b-66169400c605.jpeg",
+          "width": 1080,
+          "height": 1349,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T01:23:26.367Z",
+          "updatedAt": "2025-01-16T01:23:26.367Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67885f8fddddd1b810380522"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior"],
+      "shots": ["67885f8fddddd1b81038052c", "67885f8fddddd1b810380533"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T01:23:27.106Z",
+      "updatedAt": "2025-01-28T20:13:15.045Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35b0a3d2607e071ace0",
+          "name": "cozy"
+        },
+        {
+          "_id": "6787a35b0a3d2607e071ace8",
+          "name": "modern"
+        },
+        {
+          "_id": "6787a35c0a3d2607e071ad2c",
+          "name": "elegant"
+        },
+        {
+          "_id": "6787a3710a3d2607e071adc0",
+          "name": "luxurious"
+        },
+        {
+          "_id": "6787a3c80a3d2607e071af0f",
+          "name": "Design"
+        },
+        {
+          "_id": "6787a3de0a3d2607e071afd8",
+          "name": "Sleek"
+        },
+        {
+          "_id": "6787a3de0a3d2607e071afe0",
+          "name": "Cozy"
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7c7",
+          "name": "Bedroom"
+        },
+        {
+          "_id": "6787ba100a3d2607e071c433",
+          "name": "Intricate"
+        },
+        {
+          "_id": "6787ba260a3d2607e071c4de",
+          "name": "Aesthetics"
+        },
+        {
+          "_id": "6787ba370a3d2607e071c566",
+          "name": "Interior"
+        },
+        {
+          "_id": "6787bb180a3d2607e071cc48",
+          "name": "bold"
+        },
+        {
+          "_id": "6787bbacddddd1b810371bee",
+          "name": "Furniture"
+        },
+        {
+          "_id": "6787bbc2ddddd1b810371dd6",
+          "name": "bedroom"
+        },
+        {
+          "_id": "6787bbe4ddddd1b810372392",
+          "name": "Decor"
+        },
+        {
+          "_id": "6787bc0bddddd1b8103724e2",
+          "name": "Black"
+        },
+        {
+          "_id": "6787c481ddddd1b810373579",
+          "name": "intricate"
+        },
+        {
+          "_id": "67880108ddddd1b81037bbc5",
+          "name": "Luxury"
+        },
+        {
+          "_id": "67885f8eddddd1b8103804d3",
+          "name": "animal print"
+        },
+        {
+          "_id": "67885f8eddddd1b8103804d7",
+          "name": "black furniture"
+        },
+        {
+          "_id": "67885f8eddddd1b8103804db",
+          "name": "wall design"
+        },
+        {
+          "_id": "67885f8eddddd1b8103804f1",
+          "name": "Animal Print"
+        },
+        {
+          "_id": "67885f8eddddd1b810380501",
+          "name": "Wall Design"
+        },
+        {
+          "_id": "67885f8eddddd1b810380505",
+          "name": "Extravagant"
+        },
+        {
+          "_id": "67885f8eddddd1b81038050f",
+          "name": "Bold"
+        }
+      ]
+    },
+    {
+      "_id": "67885f7bddddd1b8103804a5",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Stylish City Living with Roberto Cavalli Home Interiors",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7a1",
+          "posts": [],
+          "name": "Residential Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:32:39.186Z",
+          "updatedAt": "2025-01-15T12:32:39.186Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67885f7addddd1b810380454",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 70754,
+          "filename": "/2b588582-b807-4cf0-bb4a-f8d7d5c63575.jpeg",
+          "width": 864,
+          "height": 862,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T01:23:06.813Z",
+          "updatedAt": "2025-01-16T01:23:06.813Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67885f7bddddd1b8103804a8"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Commercial"],
+      "shots": ["67885f7bddddd1b8103804b2", "67885f7bddddd1b8103804b9"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T01:23:07.320Z",
+      "updatedAt": "2025-01-28T20:13:14.691Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35b0a3d2607e071ace8",
+          "name": "modern"
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad88",
+          "name": "luxury"
+        },
+        {
+          "_id": "6787a3710a3d2607e071adc0",
+          "name": "luxurious"
+        },
+        {
+          "_id": "6787a3880a3d2607e071ae69",
+          "name": "interior"
+        },
+        {
+          "_id": "6787aa600a3d2607e071b36c",
+          "name": "cityscape"
+        },
+        {
+          "_id": "6787aaab0a3d2607e071b60e",
+          "name": "sleek"
+        },
+        {
+          "_id": "6787bb3f0a3d2607e071cda8",
+          "name": "Lush"
+        },
+        {
+          "_id": "6787bb84ddddd1b81037190e",
+          "name": "decor"
+        },
+        {
+          "_id": "6787bbd4ddddd1b8103720b1",
+          "name": "stylish"
+        },
+        {
+          "_id": "6787c42fddddd1b810373334",
+          "name": "living area"
+        },
+        {
+          "_id": "6787cceaddddd1b8103761a1",
+          "name": "city view"
+        },
+        {
+          "_id": "6787dcabddddd1b810377a74",
+          "name": "apartment"
+        },
+        {
+          "_id": "6787ddfeddddd1b81037869b",
+          "name": "glass table"
+        },
+        {
+          "_id": "67881319ddddd1b81037dd13",
+          "name": "plush seating"
+        },
+        {
+          "_id": "67885f7addddd1b81038046a",
+          "name": "Roberto Cavalli"
+        },
+        {
+          "_id": "67885f7bddddd1b810380492",
+          "name": "glass coffee table"
+        },
+        {
+          "_id": "67885f7bddddd1b810380499",
+          "name": "centerpiece"
+        },
+        {
+          "_id": "67885f7bddddd1b81038049d",
+          "name": "chic decor"
+        },
+        {
+          "_id": "67885f7bddddd1b8103804a1",
+          "name": "Roberto Cavalli Home Interiors."
+        }
+      ]
+    },
+    {
+      "_id": "67885f69ddddd1b810380433",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Colorful Cushions with Varied Patterns and Textures",
+      "views": 9,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7a1",
+          "posts": [],
+          "name": "Residential Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:32:39.186Z",
+          "updatedAt": "2025-01-15T12:32:39.186Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67885f69ddddd1b8103803da",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 270218,
+          "filename": "/96b42d19-d1da-4576-ab39-0e76b80dfc7a.jpeg",
+          "width": 1080,
+          "height": 1350,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T01:22:49.264Z",
+          "updatedAt": "2025-01-16T01:22:49.264Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67885f69ddddd1b810380436"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Cultural"],
+      "shots": ["67885f69ddddd1b810380440", "67885f69ddddd1b810380447"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T01:22:49.758Z",
+      "updatedAt": "2025-01-28T20:13:14.833Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a3c80a3d2607e071af0f",
+          "name": "Design"
+        },
+        {
+          "_id": "6787a3de0a3d2607e071afe0",
+          "name": "Cozy"
+        },
+        {
+          "_id": "6787aad60a3d2607e071b74e",
+          "name": "interior design"
+        },
+        {
+          "_id": "6787b2b00a3d2607e071bfc3",
+          "name": "Vibrant"
+        },
+        {
+          "_id": "6787b2c80a3d2607e071c06d",
+          "name": "vibrant"
+        },
+        {
+          "_id": "6787ba370a3d2607e071c566",
+          "name": "Interior"
+        },
+        {
+          "_id": "6787bb84ddddd1b81037190e",
+          "name": "decor"
+        },
+        {
+          "_id": "6787c4e7ddddd1b8103738f2",
+          "name": "Arrangement"
+        },
+        {
+          "_id": "6787d43dddddd1b81037659a",
+          "name": "sofa"
+        },
+        {
+          "_id": "6787d44cddddd1b810376662",
+          "name": "Comfortable"
+        },
+        {
+          "_id": "6787dd66ddddd1b810377fc4",
+          "name": "textures"
+        },
+        {
+          "_id": "6787e5d0ddddd1b810378f63",
+          "name": "Style"
+        },
+        {
+          "_id": "6787ff07ddddd1b81037acb0",
+          "name": "patterns"
+        },
+        {
+          "_id": "678801c5ddddd1b81037c121",
+          "name": "cushions"
+        },
+        {
+          "_id": "678837ecddddd1b81037e68b",
+          "name": "leopard print"
+        },
+        {
+          "_id": "678848b7ddddd1b81037f9ba",
+          "name": "Decorative"
+        },
+        {
+          "_id": "678848d0ddddd1b81037fa1a",
+          "name": "Textures"
+        },
+        {
+          "_id": "678848d0ddddd1b81037fa37",
+          "name": "Home"
+        },
+        {
+          "_id": "67885f69ddddd1b8103803ed",
+          "name": "lime green"
+        },
+        {
+          "_id": "67885f69ddddd1b8103803f1",
+          "name": "embroidery"
+        },
+        {
+          "_id": "67885f69ddddd1b810380401",
+          "name": "Cushions"
+        },
+        {
+          "_id": "67885f69ddddd1b810380405",
+          "name": "Patterns"
+        },
+        {
+          "_id": "67885f69ddddd1b81038040f",
+          "name": "Eclectic"
+        },
+        {
+          "_id": "67885f69ddddd1b81038041c",
+          "name": "Colorful"
+        },
+        {
+          "_id": "67885f69ddddd1b810380423",
+          "name": "Fabric"
+        }
+      ]
+    },
+    {
+      "_id": "67885f57ddddd1b8103803b9",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Sophisticated Interior Showcasing Luxury and Modern Design",
+      "views": 5,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787b28a0a3d2607e071be46",
+          "posts": [],
+          "name": "Visual arts center Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T13:05:14.116Z",
+          "updatedAt": "2025-01-15T13:05:14.116Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67885f56ddddd1b810380362",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 192738,
+          "filename": "/1b518559-881c-47f5-805e-dd87cbe14925.jpeg",
+          "width": 997,
+          "height": 1246,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T01:22:30.838Z",
+          "updatedAt": "2025-01-16T01:22:30.838Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67885f57ddddd1b8103803bc"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Cultural"],
+      "shots": ["67885f57ddddd1b8103803c6", "67885f57ddddd1b8103803cd"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T01:22:31.408Z",
+      "updatedAt": "2025-01-28T20:21:44.306Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35b0a3d2607e071ace8",
+          "name": "modern"
+        },
+        {
+          "_id": "6787a35b0a3d2607e071ad04",
+          "name": "design"
+        },
+        {
+          "_id": "6787a35c0a3d2607e071ad2c",
+          "name": "elegant"
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad88",
+          "name": "luxury"
+        },
+        {
+          "_id": "6787a3700a3d2607e071adb0",
+          "name": "sophisticated"
+        },
+        {
+          "_id": "6787aad60a3d2607e071b74e",
+          "name": "interior design"
+        },
+        {
+          "_id": "6787b2c80a3d2607e071c07f",
+          "name": "striking"
+        },
+        {
+          "_id": "6787b2c80a3d2607e071c087",
+          "name": "eyes"
+        },
+        {
+          "_id": "6787b2c80a3d2607e071c091",
+          "name": "feast"
+        },
+        {
+          "_id": "6787b2f40a3d2607e071c1c7",
+          "name": "modern aesthetics"
+        },
+        {
+          "_id": "6787bb84ddddd1b81037190e",
+          "name": "decor"
+        },
+        {
+          "_id": "6787c4fdddddd1b81037395c",
+          "name": "lamp"
+        },
+        {
+          "_id": "6787cceaddddd1b8103761ac",
+          "name": "chair"
+        },
+        {
+          "_id": "6787dbc9ddddd1b81037738d",
+          "name": "modern."
+        },
+        {
+          "_id": "6787dc4dddddd1b8103777af",
+          "name": "gold"
+        },
+        {
+          "_id": "6787e56cddddd1b810378cbb",
+          "name": "elements"
+        },
+        {
+          "_id": "6788135fddddd1b81037df1d",
+          "name": "zebra pattern"
+        },
+        {
+          "_id": "67885f57ddddd1b810380381",
+          "name": "art deco"
+        },
+        {
+          "_id": "67885f57ddddd1b810380388",
+          "name": "Glamorous"
+        },
+        {
+          "_id": "67885f57ddddd1b81038038f",
+          "name": "zebra-patterned chair"
+        },
+        {
+          "_id": "67885f57ddddd1b810380396",
+          "name": "golden elements"
+        },
+        {
+          "_id": "67885f57ddddd1b8103803af",
+          "name": "golden"
+        }
+      ]
+    },
+    {
+      "_id": "67885f48ddddd1b810380341",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Captivating Abstract Art Installation with Gold and Green Details",
+      "views": 5,
+      "categories": [
+        {
+          "_id": "6787b28a0a3d2607e071be46",
+          "posts": [],
+          "name": "Visual arts center Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T13:05:14.116Z",
+          "updatedAt": "2025-01-15T13:05:14.116Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787b28a0a3d2607e071be4a",
+          "posts": [],
+          "name": "Exhibition center Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T13:05:14.132Z",
+          "updatedAt": "2025-01-15T13:05:14.132Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787b2990a3d2607e071beed",
+          "posts": [],
+          "name": "Installation Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T13:05:29.811Z",
+          "updatedAt": "2025-01-15T13:05:29.811Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67885f47ddddd1b8103802e3",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 105486,
+          "filename": "/5225dc12-c0d9-4745-b78b-3aa82e7b616a.jpeg",
+          "width": 1080,
+          "height": 1345,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T01:22:15.524Z",
+          "updatedAt": "2025-01-16T01:22:15.524Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67885f48ddddd1b810380344"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Cultural", "Residential", "Interior"],
+      "shots": ["67885f48ddddd1b81038034e", "67885f48ddddd1b810380355"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T01:22:16.297Z",
+      "updatedAt": "2025-01-28T20:22:14.236Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35c0a3d2607e071ad3a",
+          "name": "contemporary"
+        },
+        {
+          "_id": "6787ab2d0a3d2607e071ba49",
+          "name": "dynamic"
+        },
+        {
+          "_id": "6787b28a0a3d2607e071be5a",
+          "name": "visual art"
+        },
+        {
+          "_id": "6787b2990a3d2607e071bef2",
+          "name": "installation"
+        },
+        {
+          "_id": "6787ba100a3d2607e071c433",
+          "name": "Intricate"
+        },
+        {
+          "_id": "6787ba950a3d2607e071c883",
+          "name": "Green"
+        },
+        {
+          "_id": "6787c481ddddd1b810373579",
+          "name": "intricate"
+        },
+        {
+          "_id": "6787dc4dddddd1b8103777af",
+          "name": "gold"
+        },
+        {
+          "_id": "6787dde9ddddd1b8103785ea",
+          "name": "Light"
+        },
+        {
+          "_id": "6787ee9eddddd1b810379c61",
+          "name": "Installation"
+        },
+        {
+          "_id": "6787efe6ddddd1b81037a519",
+          "name": "metallic"
+        },
+        {
+          "_id": "6787fed5ddddd1b81037ab1f",
+          "name": "Art"
+        },
+        {
+          "_id": "67884103ddddd1b81037f537",
+          "name": "abstract art"
+        },
+        {
+          "_id": "67885f47ddddd1b8103802f6",
+          "name": "reflective"
+        },
+        {
+          "_id": "67885f47ddddd1b8103802fa",
+          "name": "green stripes"
+        },
+        {
+          "_id": "67885f47ddddd1b81038030a",
+          "name": "Abstract art"
+        },
+        {
+          "_id": "67885f47ddddd1b81038030e",
+          "name": "Gold"
+        },
+        {
+          "_id": "67885f47ddddd1b810380312",
+          "name": "Reflective surfaces"
+        },
+        {
+          "_id": "67885f47ddddd1b810380316",
+          "name": "Dynamic"
+        },
+        {
+          "_id": "67885f48ddddd1b81038031d",
+          "name": "Striped patterns"
+        },
+        {
+          "_id": "67885f48ddddd1b810380324",
+          "name": "Shadow"
+        },
+        {
+          "_id": "67885f48ddddd1b810380328",
+          "name": "Engaging"
+        },
+        {
+          "_id": "67885f48ddddd1b81038032c",
+          "name": "Visual experience"
+        },
+        {
+          "_id": "67885f48ddddd1b810380333",
+          "name": "Mesmerizing"
+        },
+        {
+          "_id": "67885f48ddddd1b81038033d",
+          "name": "Background"
+        }
+      ]
+    },
+    {
+      "_id": "67885821ddddd1b8103802bb",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Modern Bathroom with Luxurious Wooden Bathtub",
+      "views": 5,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787b2b00a3d2607e071bf94",
+          "posts": [],
+          "name": "Wellness Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T13:05:52.588Z",
+          "updatedAt": "2025-01-15T13:05:52.588Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "67885821ddddd1b81038027c",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 91930,
+          "filename": "/4742b50f-e53e-48c7-9eb1-f63b534f4aa9.jpeg",
+          "width": 1080,
+          "height": 809,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T00:51:45.185Z",
+          "updatedAt": "2025-01-16T00:51:45.185Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "67885821ddddd1b8103802be"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Wellbeing"],
+      "shots": ["67885821ddddd1b8103802c8", "67885821ddddd1b8103802cf"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T00:51:45.629Z",
+      "updatedAt": "2025-01-28T20:21:58.544Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35b0a3d2607e071ace8",
+          "name": "modern"
+        },
+        {
+          "_id": "6787a3700a3d2607e071adac",
+          "name": "serene"
+        },
+        {
+          "_id": "6787a3710a3d2607e071adc0",
+          "name": "luxurious"
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7a9",
+          "name": "ambient lighting"
+        },
+        {
+          "_id": "6787b29a0a3d2607e071bf32",
+          "name": "relaxation"
+        },
+        {
+          "_id": "6787bb9addddd1b810371a97",
+          "name": "modern bathroom"
+        },
+        {
+          "_id": "6787bb9addddd1b810371ac4",
+          "name": "bathroom"
+        },
+        {
+          "_id": "6787bc1dddddd1b81037258c",
+          "name": "sleek design"
+        },
+        {
+          "_id": "6787c481ddddd1b81037356b",
+          "name": "serene atmosphere"
+        },
+        {
+          "_id": "6787cceaddddd1b81037619a",
+          "name": "glass partitions"
+        },
+        {
+          "_id": "678812beddddd1b81037da8d",
+          "name": "spa-like"
+        },
+        {
+          "_id": "67881338ddddd1b81037de1e",
+          "name": "green accents"
+        },
+        {
+          "_id": "67885821ddddd1b810380283",
+          "name": "wooden bathtub"
+        },
+        {
+          "_id": "67885821ddddd1b81038028d",
+          "name": "stone flooring"
+        }
+      ]
+    },
+    {
+      "_id": "678850fbddddd1b810380251",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Luxurious Modern Bedroom with Elegant Decor",
+      "views": 5,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "678850fbddddd1b8103801fc",
+          "posts": [],
+          "name": "HOTELS Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-16T00:21:15.430Z",
+          "updatedAt": "2025-01-16T00:21:15.430Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "678850fbddddd1b8103801f7",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 183514,
+          "filename": "/579d8ff3-adcf-4ddd-b267-79d180134657.jpeg",
+          "width": 1080,
+          "height": 809,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T00:21:15.404Z",
+          "updatedAt": "2025-01-16T00:21:15.404Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "678850fbddddd1b810380254"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Hospitality"],
+      "shots": ["678850fbddddd1b81038025e", "678850fcddddd1b810380265"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T00:21:15.924Z",
+      "updatedAt": "2025-01-28T20:21:58.444Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35b0a3d2607e071acec",
+          "name": "minimalist"
+        },
+        {
+          "_id": "6787a35c0a3d2607e071ad2c",
+          "name": "elegant"
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad88",
+          "name": "luxury"
+        },
+        {
+          "_id": "6787a3700a3d2607e071adb0",
+          "name": "sophisticated"
+        },
+        {
+          "_id": "6787a3870a3d2607e071ae32",
+          "name": "modern design"
+        },
+        {
+          "_id": "6787a3c80a3d2607e071af0f",
+          "name": "Design"
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7a9",
+          "name": "ambient lighting"
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7c7",
+          "name": "Bedroom"
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7e1",
+          "name": "Ambient lighting"
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7f1",
+          "name": "Space"
+        },
+        {
+          "_id": "6787ba370a3d2607e071c566",
+          "name": "Interior"
+        },
+        {
+          "_id": "6787badd0a3d2607e071ca82",
+          "name": "comfort"
+        },
+        {
+          "_id": "6787bb2b0a3d2607e071cce4",
+          "name": "Harmonious"
+        },
+        {
+          "_id": "6787bbc2ddddd1b810371dd2",
+          "name": "neutral tones"
+        },
+        {
+          "_id": "6787bbc2ddddd1b810371dd6",
+          "name": "bedroom"
+        },
+        {
+          "_id": "6787bbe4ddddd1b810372392",
+          "name": "Decor"
+        },
+        {
+          "_id": "6787bc1dddddd1b81037255c",
+          "name": "interior decor"
+        },
+        {
+          "_id": "6787c50fddddd1b810373a3c",
+          "name": "Room"
+        },
+        {
+          "_id": "6787dc27ddddd1b810377689",
+          "name": "Relaxation"
+        },
+        {
+          "_id": "678850fbddddd1b810380221",
+          "name": "Modern decor"
+        },
+        {
+          "_id": "678850fbddddd1b810380225",
+          "name": "Sophisticated details"
+        },
+        {
+          "_id": "678850fbddddd1b81038022c",
+          "name": "Furnishings"
+        },
+        {
+          "_id": "678850fbddddd1b810380236",
+          "name": "Elegantly designed"
+        },
+        {
+          "_id": "678850fbddddd1b81038023a",
+          "name": "Visual delight"
+        },
+        {
+          "_id": "678850fbddddd1b810380241",
+          "name": "Meticulously chosen"
+        }
+      ]
+    },
+    {
+      "_id": "678850eaddddd1b8103801d6",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Luxurious Bathroom Interior Design",
+      "views": 5,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787aae70a3d2607e071b7a1",
+          "posts": [],
+          "name": "Residential Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:32:39.186Z",
+          "updatedAt": "2025-01-15T12:32:39.186Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "678850eaddddd1b81038017f",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 133744,
+          "filename": "/27631f38-b9dc-4809-9ee7-f86832eba001.jpeg",
+          "width": 1080,
+          "height": 1349,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T00:20:58.078Z",
+          "updatedAt": "2025-01-16T00:20:58.078Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "678850eaddddd1b8103801d9"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior"],
+      "shots": ["678850eaddddd1b8103801e3", "678850eaddddd1b8103801ea"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T00:20:58.675Z",
+      "updatedAt": "2025-01-28T20:21:58.451Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a3710a3d2607e071adc0",
+          "name": "luxurious"
+        },
+        {
+          "_id": "6787a3870a3d2607e071ae32",
+          "name": "modern design"
+        },
+        {
+          "_id": "6787aaab0a3d2607e071b60e",
+          "name": "sleek"
+        },
+        {
+          "_id": "6787c49addddd1b810373675",
+          "name": "serene ambiance"
+        },
+        {
+          "_id": "6787e5a7ddddd1b810378e5d",
+          "name": "modern elements"
+        },
+        {
+          "_id": "6787ed7dddddd1b810379400",
+          "name": "chandelier"
+        },
+        {
+          "_id": "6787efc1ddddd1b81037a44f",
+          "name": "delicate"
+        },
+        {
+          "_id": "678839d3ddddd1b81037f441",
+          "name": "marble countertop"
+        },
+        {
+          "_id": "678850eaddddd1b810380186",
+          "name": "elegant bathroom"
+        },
+        {
+          "_id": "678850eaddddd1b81038018d",
+          "name": "white sink"
+        },
+        {
+          "_id": "678850eaddddd1b810380194",
+          "name": "botanical art"
+        },
+        {
+          "_id": "678850eaddddd1b810380198",
+          "name": "chic wallpaper"
+        },
+        {
+          "_id": "678850eaddddd1b8103801a2",
+          "name": "tasteful decor"
+        },
+        {
+          "_id": "678850eaddddd1b8103801ac",
+          "name": "classic elements"
+        },
+        {
+          "_id": "678850eaddddd1b8103801b3",
+          "name": "white toilet"
+        },
+        {
+          "_id": "678850eaddddd1b8103801c9",
+          "name": "polished ambiance"
+        }
+      ]
+    },
+    {
+      "_id": "678850d9ddddd1b81038015e",
+      "author": {
+        "_id": "67879ba40a3d2607e071ac36",
+        "username": "Qclay",
+        "name": "Qclay",
+        "title": null,
+        "email": "dev@qclay.design"
+      },
+      "title": "Elegant and Spa-like Bathroom Retreat",
+      "views": 5,
+      "categories": [
+        {
+          "_id": "6787a35b0a3d2607e071acd6",
+          "posts": [],
+          "name": "House Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:27.532Z",
+          "updatedAt": "2025-01-15T12:00:27.532Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad7f",
+          "posts": [],
+          "name": "Apartment Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T12:00:48.520Z",
+          "updatedAt": "2025-01-15T12:00:48.520Z",
+          "__v": 0
+        },
+        {
+          "_id": "6787b2b00a3d2607e071bf94",
+          "posts": [],
+          "name": "Wellness Interiors Design",
+          "countPosts": 0,
+          "createdAt": "2025-01-15T13:05:52.588Z",
+          "updatedAt": "2025-01-15T13:05:52.588Z",
+          "__v": 0
+        }
+      ],
+      "preview": {
+        "thumbnail": {
+          "_id": "678850d8ddddd1b81038010b",
+          "mimetype": "image/jpeg",
+          "extension": "jpeg",
+          "size": 86922,
+          "filename": "/2737df82-6d0e-4248-8037-e22b9b36a128.jpeg",
+          "width": 1080,
+          "height": 810,
+          "thumbnail": null,
+          "createdAt": "2025-01-16T00:20:40.482Z",
+          "updatedAt": "2025-01-16T00:20:40.482Z",
+          "__v": 0
+        },
+        "size": "600x400",
+        "xCoordinate": 0,
+        "yCoordinate": 0,
+        "_id": "678850d9ddddd1b810380161"
+      },
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactionsCount": 0,
+      "likesCount": 0,
+      "classifications": ["Residential", "Interior", "Wellbeing"],
+      "shots": ["678850d9ddddd1b81038016b", "678850d9ddddd1b810380172"],
+      "isPublished": true,
+      "createdAt": "2025-01-16T00:20:41.189Z",
+      "updatedAt": "2025-01-28T20:22:14.335Z",
+      "allReactions": [],
+      "tags": [
+        {
+          "_id": "6787a35b0a3d2607e071ace8",
+          "name": "modern"
+        },
+        {
+          "_id": "6787a35b0a3d2607e071ad04",
+          "name": "design"
+        },
+        {
+          "_id": "6787a35c0a3d2607e071ad2c",
+          "name": "elegant"
+        },
+        {
+          "_id": "6787a35c0a3d2607e071ad3a",
+          "name": "contemporary"
+        },
+        {
+          "_id": "6787a3700a3d2607e071ad88",
+          "name": "luxury"
+        },
+        {
+          "_id": "6787a3f30a3d2607e071b050",
+          "name": "retreat"
+        },
+        {
+          "_id": "6787aaab0a3d2607e071b60e",
+          "name": "sleek"
+        },
+        {
+          "_id": "6787aac00a3d2607e071b6af",
+          "name": "spacious"
+        },
+        {
+          "_id": "6787b29a0a3d2607e071bf32",
+          "name": "relaxation"
+        },
+        {
+          "_id": "6787bb190a3d2607e071cc67",
+          "name": "style"
+        },
+        {
+          "_id": "6787bb9addddd1b810371aa6",
+          "name": "sink"
+        },
+        {
+          "_id": "6787bb9addddd1b810371aae",
+          "name": "bathtub"
+        },
+        {
+          "_id": "6787bb9addddd1b810371ab6",
+          "name": "mirror"
+        },
+        {
+          "_id": "6787bb9addddd1b810371ac4",
+          "name": "bathroom"
+        },
+        {
+          "_id": "6787c4e7ddddd1b8103738aa",
+          "name": "shelves"
+        },
+        {
+          "_id": "6787cc5dddddd1b810375d75",
+          "name": "vanity"
+        },
+        {
+          "_id": "67880a6eddddd1b81037d247",
+          "name": "sanctuary"
+        },
+        {
+          "_id": "678812beddddd1b81037da8d",
+          "name": "spa-like"
+        },
+        {
+          "_id": "678850d8ddddd1b810380124",
+          "name": "golden accents"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "count": 354,
+    "totalPages": 23,
+    "page": 1
+  }
+}
