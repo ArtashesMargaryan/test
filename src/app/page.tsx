@@ -1,7 +1,7 @@
 "use client";
-import { useEffect, useState } from "react";
-import fetchData from "@/lib/fetchData";
 import Card from "@/components/Card";
+import fetchData from "@/lib/fetchData";
+import { useEffect, useState } from "react";
 
 const ITEMS_PER_PAGE = 16;
 
