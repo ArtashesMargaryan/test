@@ -1,13 +1,21 @@
 import Image from "next/image";
 import { useState } from "react";
 
-export default function Card({ item }: { item: Item }) {
+type CardProps = {
+  item: Item;
+  onClick?: () => void;
+};
+
+export default function Card({ item, onClick }: CardProps) {
   const [activeImage, setActiveImage] = useState(
     item.images?.[0] || "/image1.png"
   );
 
   return (
-    <div className="rounded-xl overflow-hidden shadow border bg-white">
+    <div
+      className="rounded-xl overflow-hidden shadow border bg-white cursor-pointer hover:scale-[1.01] transition"
+      onClick={onClick}
+    >
       {/* Header */}
       <div className="flex items-center gap-3 p-4">
         <div className="relative w-10 h-10">
@@ -58,24 +66,13 @@ export default function Card({ item }: { item: Item }) {
             className={`relative w-14 h-14 rounded-md overflow-hidden border-2 cursor-pointer ${
               activeImage === img ? "border-gray-700" : "border-transparent"
             }`}
-            onClick={() => setActiveImage(img)}
+            onClick={(e) => {
+              e.stopPropagation();
+              setActiveImage(img);
+            }}
           >
             <Image src={img} alt="thumb" fill className="object-cover" />
           </div>
-        ))}
-      </div>
-
-      {/* Pagination (Mock Example) */}
-      <div className="flex justify-end px-4 mt-5 mb-4 gap-2">
-        {[1, 2, 3, 4].map((num) => (
-          <button
-            key={num}
-            className={`w-7 h-7 text-sm rounded-full border ${
-              num === 2 ? "bg-yellow-300" : "bg-gray-100"
-            }`}
-          >
-            {num}
-          </button>
         ))}
       </div>
     </div>

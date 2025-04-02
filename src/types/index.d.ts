@@ -8,3 +8,8 @@ type Item = {
   };
   images: string[];
 };
+
+type CardProps = {
+  item: Item;
+  onClick?: () => void;
+};
